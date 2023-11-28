@@ -1,3 +1,3 @@
 # gallery
 
-Images Gallery with NextJS
+Images Gallery with NextJS, Typescript, & Tailwind CSS
